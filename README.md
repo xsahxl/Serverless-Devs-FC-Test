@@ -1,4 +1,4 @@
-# Serverless-Devs-FC-Test
+# Serverless-Devs-FC-Test test
 
 直接找一个安装了 ServerlessDevs 和 docker 的 mac/windows/linux 机器, 直接执行:
 
